@@ -1,4 +1,5 @@
-/mon-site http://mon-site.com
+/google     https://google.com
+/mon-site   http://mon-site.com
 
-# fallback
-/*	https://your-website.com
+#fallback
+/*          https://your-website.com
