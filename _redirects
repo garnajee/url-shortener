@@ -2,4 +2,5 @@
 /mon-site   http://mon-site.com
 
 #fallback
-/*          https://your-website.com
+# dans tous les cas si le site n'existe pas il chargera le site suivant
+/*          
