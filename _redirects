@@ -1,6 +1,6 @@
-/google     https://google.com
-/mon-site   http://mon-site.com
+/momo     http://momo-site.tk
+/google   https://google.com
 
 #fallback
-# dans tous les cas si le site n'existe pas il chargera le site suivant
-/*          
+# dans tous les cas si le site n'existe pas il chargera le sitesuivant
+/*        
