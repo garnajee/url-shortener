@@ -1,6 +1,7 @@
+/sheet0   https://docs.google.com/spreadsheets/d/19eYsKWbbdOQBLKXshhU1parWt3zslNQp3zfNHFs0Yn0/gviz/tq?tqx=out:html&tq#gid=0
 /momo     http://momo-site.tk
 /google   https://google.com
 
 #fallback
-# dans tous les cas si le site n'existe pas il chargera le sitesuivant
+# dans tous les cas si le site n'existe pas il chargera lesitesuivant
 /*        
